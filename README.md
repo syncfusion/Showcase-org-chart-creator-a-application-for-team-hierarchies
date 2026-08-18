@@ -24,10 +24,10 @@ Org Chart Creator is an interactive organizational chart application that helps 
 
 | Platform | Source |
 |----------|----------|
-| React | link |
 | Blazor | [link](https://github.com/syncfusion/blazor-showcase-organizational-chart) |
 | JavaScript | [link](https://github.com/syncfusion/ej2-showcase-js-organizational-chart) |
 | Angular | [link](https://github.com/syncfusion/ej2-showcase-angular-organizational-chart) |
+| WPF | [Link](https://www.syncfusion.com/showcase-apps/wpf/organizational-layout) |
 
 ---
 
